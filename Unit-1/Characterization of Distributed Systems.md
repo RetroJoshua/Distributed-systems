@@ -1,1 +1,15 @@
-
+- Introduction
+- Examples of Distributed systems
+- Resource sharing and web
+- challenges
+- System models:
+  - Introduction
+  - Architectural and Fundamental models
+  - Networking and Internetworking
+  - Inter-process Communication
+- Distributed objects and Remote Invocation
+  - Introduction
+  - Communication between distributed objects
+  - RPC
+  - Events and notifications
+  - Case study-Java RMI.
