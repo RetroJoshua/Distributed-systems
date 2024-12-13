@@ -1,3 +1,4 @@
+#  Characterization of Distributed Systems
 - Introduction
 - Examples of Distributed systems
 - Resource sharing and web
