@@ -1,0 +1,6 @@
+# Unit  IV - Transactions and Concurrency Control 
+
+Introduction, Transactions, Nested Transactions, Locks, Optimistic concurrency control, 
+Timestamp ordering. Distributed Transactions-Introduction, Flat and Nested Distributed 
+Transactions, Atomic commit protocols, Concurrency control in distributed transactions, 
+Distributed deadlocks, Transaction recovery.
